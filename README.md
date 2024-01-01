@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B22222&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Mel+Reis;I'm+currently+learning+Data+Science!+:%29)](https://git.io/typing-svg)
 
 ## About me:
-→ I'm studying Machine Learning and IA
+→ I'm studying Machine Learning and AI
 
 → I'm looking for my first opportunity
 
