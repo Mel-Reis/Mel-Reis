@@ -1,9 +1,15 @@
+![top border](https://via.placeholder.com/1500x20/E91E63/FFFFFF?text=)
+
+
 ## Olá, eu sou a Mel Reis! 🌸
+
 Sou estudante apaixonada por Ciência de Dados e Desenvolvimento, com foco em transformar dados em soluções valiosas. Estou em busca de oportunidades para aplicar meus conhecimentos em ambientes colaborativos e desafiadores, onde posso contribuir e aprender.
 
 Neste repositório, você encontrará meus projetos acadêmicos e pessoais, que abrangem áreas como análise de dados, aprendizado de máquina, automação e desenvolvimento de software. Fique à vontade para explorar e compartilhar feedbacks!
 
-### Tecnologias e Ferramentas:
+---
+
+### 💻 Tecnologias e Ferramentas:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -28,19 +34,23 @@ Neste repositório, você encontrará meus projetos acadêmicos e pessoais, que 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-###
+---
+
+### 📊 Estatísticas GitHub:
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mel-Reis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mel-Reis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 <br>
 
-###
-### Contato:
-<div align="center">
-  <a href="www.linkedin.com/in/mel-reis-2153b8259" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+---
 
-###
+### 💌 Vamos nos conectar:
+Sinta-se à vontade para me seguir e compartilhar ideias! Estou aberta a colaborações e discussões sobre projetos e novas oportunidades. 💖
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mel_Reis-%23E91E63?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mel-reis/)
+[![GitHub](https://img.shields.io/badge/GitHub-Mel_Reis-%23E91E63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mel-Reis)
+
+![bottom border](https://via.placeholder.com/1500x20/E91E63/FFFFFF?text=)
+
+
