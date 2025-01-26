@@ -1,4 +1,4 @@
-![top border](https://via.placeholder.com/1500x20/E91E63/FFFFFF?text=)
+<!-- [![top border](https://via.placeholder.com/1500x20/E91E63/FFFFFF?text=)](url) -->
 
 
 ## Olá, eu sou a Mel Reis! 🌸
@@ -51,6 +51,6 @@ Sinta-se à vontade para me seguir e compartilhar ideias! Estou aberta a colabor
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mel_Reis-%23E91E63?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mel-reis-2153b8259)
 [![GitHub](https://img.shields.io/badge/GitHub-Mel_Reis-%23E91E63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mel-Reis)
 
-![bottom border](https://via.placeholder.com/1500x20/E91E63/FFFFFF?text=)
+<!-- ![bottom border](https://via.placeholder.com/1500x20/E91E63/FFFFFF?text=) -->
 
 
