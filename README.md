@@ -3,7 +3,7 @@
 
 ## Olá, eu sou a Mel Reis! 🌸
 
-Sou estudante apaixonada por Ciência de Dados e Desenvolvimento, com foco em transformar dados em soluções valiosas. Estou em busca de oportunidades para aplicar meus conhecimentos em ambientes colaborativos e desafiadores, onde posso contribuir e aprender.
+Sou estudante apaixonada por Ciência de Dados e Desenvolvimento de Software, com foco em transformar dados em soluções valiosas. Estou em busca de oportunidades para aplicar meus conhecimentos em ambientes colaborativos e desafiadores, onde posso contribuir e aprender.
 
 Neste repositório, você encontrará meus projetos acadêmicos e pessoais, que abrangem áreas como análise de dados, aprendizado de máquina, automação e desenvolvimento de software. Fique à vontade para explorar e compartilhar feedbacks!
 
