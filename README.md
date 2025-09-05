@@ -3,7 +3,7 @@
 
 ## Olá, eu sou a Mel Reis! 🌸
 
-Sou estudante apaixonada por Ciência de Dados e Desenvolvimento de Software, com foco em transformar dados em soluções valiosas. Estou em busca de oportunidades para aplicar meus conhecimentos em ambientes colaborativos e desafiadores, onde posso contribuir e aprender.
+Sou formada em Ciência de Dados e estudante de Engenharia de Software, com foco em transformar dados em soluções valiosas. Estou em busca de oportunidades para aplicar meus conhecimentos em ambientes colaborativos e desafiadores, onde posso contribuir e aprender.
 
 Neste repositório, você encontrará meus projetos acadêmicos e pessoais, que abrangem áreas como análise de dados, aprendizado de máquina, automação e desenvolvimento de software. Fique à vontade para explorar e compartilhar feedbacks!
 
@@ -21,7 +21,6 @@ Neste repositório, você encontrará meus projetos acadêmicos e pessoais, que 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
