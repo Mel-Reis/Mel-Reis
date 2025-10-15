@@ -3,15 +3,17 @@
 
 ## Olá, eu sou a Mel Reis! 🌸
 
-Sou formada em Ciência de Dados e estudante de Engenharia de Software, com foco em transformar dados em soluções valiosas. Estou em busca de oportunidades para aplicar meus conhecimentos em ambientes colaborativos e desafiadores, onde posso contribuir e aprender.
+Sou formada em Ciência de Dados e estudante de Engenharia de Software, com foco em transformar dados em soluções valiosas e desenvolver aplicações. Estou em busca de oportunidades para aplicar meus conhecimentos em ambientes colaborativos e desafiadores, onde posso contribuir e aprender.
 
-Neste repositório, você encontrará meus projetos acadêmicos e pessoais, que abrangem áreas como análise de dados, aprendizado de máquina, automação e desenvolvimento de software. Fique à vontade para explorar e compartilhar feedbacks!
+Neste repositório, você encontrará meus projetos acadêmicos e pessoais, que abrangem áreas como análise de dados, automação e desenvolvimento de software. Fique à vontade para explorar e compartilhar feedbacks!
 
 ---
 
 ### 💻 Tecnologias e Ferramentas:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
