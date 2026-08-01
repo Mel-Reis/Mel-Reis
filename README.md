@@ -4,7 +4,7 @@
 
 ## Olá, eu sou a Mel Reis! 🌸
 
-Sou formada em Ciência de Dados e estudante de Desenvolvimento. Estou em busca de oportunidades para aplicar meus conhecimentos em ambientes colaborativos e desafiadores, onde posso contribuir e aprender.
+Sou Desenvolvedora Fullstack e formada em Ciência de Dados.
 
 Neste repositório, você encontrará meus projetos acadêmicos e pessoais. Fique à vontade para explorar e compartilhar feedbacks!
 
@@ -20,12 +20,13 @@ Neste repositório, você encontrará meus projetos acadêmicos e pessoais. Fiqu
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="40"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="40"/>   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="54" />       
   <img width="12" />    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="40"/>
   <img width="12" />     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"/>
   <img width="12" />     
